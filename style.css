@@ -104,7 +104,7 @@ a {
   position: relative;
   height: 100vh;
   width: 100%;
-  background-image: url("img/cloths1.png");
+  background-image: url("cloths1.png");
   background-size: contain;
   background-position: top 40% left 100%;
   background-color: rgba(102, 101, 101, 0.5);
@@ -393,7 +393,7 @@ a {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-image: url("img/Banner/standard.gif");
+  background-image: url("standard.gif");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -441,7 +441,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("img/Banner/b1.png");
+  background-image: url("b1.png");
   border-radius: 5px;
   min-width: 580px;
   height: 50vh;
@@ -453,7 +453,7 @@ a {
 }
 
 #sm-banner .banner-box2{
-  background-image: url("img/Banner/b2.png");
+  background-image: url("b2.png");
 }
 
 
@@ -491,7 +491,7 @@ a {
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
-  background-image: url("img/Banner/b3.png");
+  background-image: url("b3.png");
   border-radius: 5px;
   min-width: 30%;
   height: 30vh;
@@ -502,11 +502,11 @@ a {
 }
 
 #banner3 .banner-box2{
-  background-image: url("img/Banner/b4.png");
+  background-image: url("b4.png");
 }
 
 #banner3 .banner-box3{
-  background-image: url("img/Banner/b5.png");
+  background-image: url("b5.png");
 }
 
 #banner3 h2{
